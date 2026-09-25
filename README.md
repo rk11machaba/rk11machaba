@@ -27,26 +27,24 @@
 | :--- | :--- |
 | **Backend** | C#, ASP.NET Core (.NET 9), Clean Architecture, RESTful APIs, EF Core |
 | **Frontend** | TypeScript, Next.js, React, Tailwind CSS |
-| **Mobile & Desktop** | React Native, Electron, SQLite, better-sqlite3 |
+| **Mobile & Apps** | React Native, TypeScript, Mobile & Web UI |
 | **Infrastructure & Tools** | Git, Docker, Vercel, Linux, CI/CD Pipelines |
 
 ---
 
-### 🚀 FEATURED_PROJECTS
+### 🚀 FEATURED_PROJECTS (LIVE)
 
-* **[ToGrad](https://machabakaizer.vercel.app/services/tograd)** — Academic tracking mobile app built for Grade 12 learners and tertiary students in South Africa (features study timers, APS calculation, and bursary matching).
-* **[Double One API](https://machabakaizer.vercel.app/services/double-one-api)** — Multi-tenant API-first platform for managing projects, subscriptions, content, and secure developer access.
-* **[StudyVault](https://machabakaizer.vercel.app/services/studyvault)** — Structured digital learning and resource repository.
-* **[OneOne Till](https://machabakaizer.vercel.app/)** — Offline-first desktop POS application built with Next.js, Electron, and SQLite for robust local execution.
+* **[Double One Digital](https://doubleonedigital.co.za)** — Digital studio specializing in software, web, and mobile application development.
+* **[ToGrad](https://tograd.co.za)** — Academic tracking mobile app built for Grade 12 learners and tertiary students in South Africa (features study timers, APS calculation, and bursary matching).
+* **[Double One API](https://elevencms.vercel.app/)** — Multi-tenant API-first platform for managing projects, subscriptions, content, and secure developer access.
+* **[Ungie's Traditional Collection](https://www.ungiestraditionalcollection.com/)** — E-commerce & collection showcase for traditional fashion styling and design assets.
 
 ---
 
-### 📊 GITHUB_STATS
-
-### 📊 GITHUB_STATS
+### 📊 PROFILE_ACTIVITY
 
 * **Primary Stack:** C#, ASP.NET Core, TypeScript, Next.js
-* **Activity:** Open source development, multi-tenant SaaS architectures, mobile & desktop apps.
+* **Activity:** Open source development, multi-tenant SaaS architectures, mobile & web applications.
 
 <div align="center">
 
