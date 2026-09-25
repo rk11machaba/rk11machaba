@@ -43,11 +43,16 @@
 
 ### 📊 GITHUB_STATS
 
+### 📊 GITHUB_STATS
+
+* **Primary Stack:** C#, ASP.NET Core, TypeScript, Next.js
+* **Activity:** Open source development, multi-tenant SaaS architectures, mobile & desktop apps.
+
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=rk11machaba&show_icons=true&theme=tokyonight&hide_border=true&bg_color=161821&title_color=E8A33D&text_color=B8C0CE&icon_color=E8A33D" alt="Kaizer's GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rk11machaba&layout=compact&theme=tokyonight&hide_border=true&bg_color=161821&title_color=E8A33D&text_color=B8C0CE" alt="Top Languages" />
+![GitHub Contributions](https://img.shields.io/badge/Contributions-Active-brightgreen?style=flat&logo=github&logoColor=white)
+![GitHub Repositories](https://img.shields.io/badge/Repos-10%2B-blue?style=flat&logo=github&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=rk11machaba&color=E8A33D&style=flat)
 
 </div>
 
